@@ -23,6 +23,24 @@ No configuration changes required. The application automatically uses the expens
 SQLite for database storage (no installation needed).
 TablePlus (optional) to view and manage your SQLite database.
 
+*** Reference 
+
+https://stackoverflow.com/questions/44308137/how-to-pass-credentials-through-code-instead-of-requesting-user
+
+https://stackoverflow.com/questions/71238320/python-tkinter-simpledialog
+
+How to Debug in Visual Studio: A Beginner's Guide  
+
+How to install SQLite3 on Windows 10/11 [2024 Update] Create Database, Table in SQL | Complete Guide 
+
+Sqlite 3 Python Tutorial in 5 minutes - Creating Database, Tables and Querying [2020] 
+
+https://www.cursorup.com/blog/laws-of-ux     
+
+https://www.wisecube.ai/blog/knowledge-graphs-vs-relational-databases-everything-you-need-to-know/         
+![image](https://github.com/user-attachments/assets/8fcb6acd-9063-4b6f-8ba5-69f333d0b364)
+
+
 #GUI 
 ![Screenshot 2024-11-24 224511](https://github.com/user-attachments/assets/5ae1b4b6-1dd1-46d9-8855-53e50152b700)
 ![Screenshot 2024-11-24 224526](https://github.com/user-attachments/assets/511e806c-98d3-4997-ae63-2e6ecc981284)
