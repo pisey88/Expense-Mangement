@@ -104,7 +104,7 @@ TablePlus (optional) to view and manage your SQLite database.
 ![image](https://github.com/user-attachments/assets/8fcb6acd-9063-4b6f-8ba5-69f333d0b364)
 
 
-#GUI 
+# GUI 
 ![Screenshot 2024-11-24 224511](https://github.com/user-attachments/assets/5ae1b4b6-1dd1-46d9-8855-53e50152b700)
 ![Screenshot 2024-11-24 224526](https://github.com/user-attachments/assets/511e806c-98d3-4997-ae63-2e6ecc981284)
 ![Screenshot 2024-11-24 224545](https://github.com/user-attachments/assets/d4be4914-c1af-482f-8fb3-1c9a679a6b9e)
